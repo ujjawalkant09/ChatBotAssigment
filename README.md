@@ -22,6 +22,10 @@ This is a basic chatbot application integrated with OpenAI's GPT-3.5-turbo on th
    **Frontend:**
    - Clone the repository.
    - Navigate to the frontend directory.
+   - Install the required dependencies:
+     ```bash
+     npm install
+     ```
    - Run the frontend using:
      ```bash
      npm start
